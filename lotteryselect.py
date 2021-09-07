@@ -13,4 +13,4 @@ rand_select=random.choice(a)
 if(rand_select == rand_lottery ):
     print("Congratulations!,You have won")
 else:
-    print("sorry try next time")
+    print("Better luck next time")
